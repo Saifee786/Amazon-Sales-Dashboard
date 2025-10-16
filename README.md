@@ -69,4 +69,6 @@ Return Rate: Low return percentage (1.5%) indicates strong customer satisfaction
 
 The Power BI dashboard provides a real-time, visual understanding of Amazon’s business performance.
 It helps stakeholders monitor profitability, understand customer behavior, and make informed strategic decisions based on data.
+
+
 <img width="1340" height="743" alt="Screenshot 2025-10-13 190000" src="https://github.com/user-attachments/assets/abc1e1e2-47ca-466e-a363-f4283f8c8b4b" />
